@@ -10,7 +10,6 @@
 |end_year  | 선수로 출장한 마지막 경기 |
 |career  | 프로선수로 활동한 기간 (단위: 년)  |
 |games  | 출장한 경기 수  |
-|birth_month | 태어난 달 |
 |position  | batter (타자) 또는 pitcher (투수) |
 
 # player2014.csv
